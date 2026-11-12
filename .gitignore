@@ -1,0 +1,9 @@
+# Whitelist: only the published site goes into the repo.
+# Everything else (CLAUDE.md, figma-map.md, Портфолио/, tools/, .claude/) stays local.
+/*
+!/index.html
+!/favicon.ico
+!/.nojekyll
+!/.gitignore
+!/assets/
+.DS_Store
